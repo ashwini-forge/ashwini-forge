@@ -49,7 +49,7 @@ At **Biostate AI**, my work includes:
 
 Earlier commercial work:
 
-- **[MIA FORA](https://transfusionandtransplant.werfen.com/product/mia-fora-ngs-software/)**: commercial HLA typing at Immucor; owned recurring reference-data updates, benchmarking, and validation. [2022 software launch](https://transfusionandtransplant.werfen.com/en-us/press-release-immucor-announces-new-innovations-in-transplant-diagnostics/).
+- **[MIA FORA](https://transfusionandtransplant.werfen.com/product/mia-fora-ngs-software/)**: commercial HLA typing at Immucor. [2022 software launch](https://transfusionandtransplant.werfen.com/en-us/press-release-immucor-announces-new-innovations-in-transplant-diagnostics/).
 - **[OncoPeptTUME](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2018.03017/full)**: tumor-microenvironment analysis at MedGenome. [Poster](https://cdn.technologynetworks.com/ep/pdfs/tumor-microenvironment-analysis-provides-insights-into-the-activity-of-cd8-t-cells-and-their-impact.pdf).
 - **[OncoPeptVAC](https://www.signiosbio.com/press-release/medgenome-presents-its-cancer-vaccine-approach-for-lynch-syndrome-patients/)**: neoantigen-prioritization workflows at MedGenome. [Media coverage](https://health.economictimes.indiatimes.com/news/industry/now-a-personalized-cancer-vaccine-approach-to-treat-lynch-syndrome/65707461).
 - **MedGenome LIMS**: laboratory information management. [Company announcement](https://www.prnewswire.com/news-releases/medgenome-presents-its-research-findings-at-advances-in-genome-biology-and-technology-agbt2016-567330641.html).
