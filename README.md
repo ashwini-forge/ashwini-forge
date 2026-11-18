@@ -58,9 +58,9 @@ Earlier commercial work:
 
 ## Selected research
 
-- **RNA sequencing and machine learning for multiple sclerosis**: second author on [Ensemble Approaches to Screening, Diagnosis, and Subtyping of Multiple Sclerosis](https://doi.org/10.64898/2026.04.19.26351230), *medRxiv* preprint, 2026. The study analyzes 997 PBMC samples.
-- **Tumor immunity and prognosis**: co-author of [A Computational Approach Identifies Immunogenic Features of Prognosis in Human Cancers](https://doi.org/10.3389/fimmu.2018.03017), *Frontiers in Immunology*, 2018.
-- **Epigenomics and lung cancer**: co-author of [Chronic Cigarette Smoke-Induced Epigenomic Changes Precede Sensitization of Bronchial Epithelial Cells to Single-Step Transformation by KRAS Mutations](https://doi.org/10.1016/j.ccell.2017.08.006), *Cancer Cell*, 2017.
+- **RNA sequencing and machine learning for multiple sclerosis**: [Ensemble Approaches to Screening, Diagnosis, and Subtyping of Multiple Sclerosis](https://doi.org/10.64898/2026.04.19.26351230), *medRxiv* preprint, 2026. The study analyzes 997 PBMC samples.
+- **Tumor immunity and prognosis**: [A Computational Approach Identifies Immunogenic Features of Prognosis in Human Cancers](https://doi.org/10.3389/fimmu.2018.03017), *Frontiers in Immunology*, 2018.
+- **Epigenomics and lung cancer**: [Chronic Cigarette Smoke-Induced Epigenomic Changes Precede Sensitization of Bronchial Epithelial Cells to Single-Step Transformation by KRAS Mutations](https://doi.org/10.1016/j.ccell.2017.08.006), *Cancer Cell*, 2017.
 
 ## Interviews
 
